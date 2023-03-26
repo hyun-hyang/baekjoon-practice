@@ -1,8 +1,8 @@
 # baekjoon-practice
-🫧 해결한 백준 풀이를 모아두는 곳 🫧
+stack of baekjoon answer
 
 ### footprints 🐾
 
-2022-11-02 실버5
+2023-03-26 실버5
 
-![22.11.02](./footprint/2022-11-02.png)
+![23.03.26](./footprint/2023-03-26.png)
