@@ -5,4 +5,4 @@ stack of baekjoon answer
 
 2023-03-26 실버5
 
-![23.03.26](./footprint/2023-03-26.png)
+![23.03.26](./footprint/2023-03-26.PNG)
